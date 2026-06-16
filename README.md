@@ -1,6 +1,6 @@
-# QAAgent
+# PaperQAAgent
 
-QAAgent is a small-group research assistant for searching papers, importing or uploading PDFs, reading them with page-level evidence, and asking citation-grounded questions.
+PaperQAAgent is a small-group research assistant for searching papers, importing or uploading PDFs, reading them with page-level evidence, and asking citation-grounded questions.
 
 中文使用手册见 [docs/USAGE.zh-CN.md](docs/USAGE.zh-CN.md).
 
